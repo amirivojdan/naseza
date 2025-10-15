@@ -1,6 +1,11 @@
-## Naseza (ناسزا)
-*A Large-Scale Dataset for Persian Hate Speech and Offensive Language Detection*
+<p align="center">
+    <em><h2 align="center">NASEZA / ناسزا</h2></em>
+    <em><h3 align="center">A Large-Scale Dataset for Persian Hate Speech and Offensive Language Detection</h3></em>
+</p>
 
+<p align="center">
+    <a href="https://doi.org/10.5281/zenodo.17355123"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.17355123.svg" alt="DOI"></a>
+</p>
 
 ### Overview
 
@@ -54,10 +59,31 @@ All samples are written in Persian and come from informal, colloquial user-gener
 - [ ] Data augmentation (ex. inserting random markers)
 - [ ] Increase dataset size by using fuzzy string matching (Levenshtein distance) between normalized candidate tokens and offensive lexicon
 - [ ] Ensemble of classifiers
-- [ ] Character-level classification
+- [x] Character-level classification
 
 ### ⚖️ License
 
 The dataset is released under the **CC0-1.0 license** (Public Domain Dedication).
 You are free to use, modify, and redistribute the data for both research and commercial purposes.
+
+### Citation
+
+If you use this dataset in your research or projects, please cite it as:
+
+**APA Style:**
+
+> Amirivojdan, A. (2025). *Naseza: A Large-Scale Dataset for Persian Hate Speech and Offensive Language Detection* (Version v1.0.0) [Dataset]. Zenodo. [https://doi.org/10.5281/zenodo.17355123](https://doi.org/10.5281/zenodo.17355123)
+
+**BibTeX:**
+```bibtex
+@dataset{amirivojdan_2025_naseza,
+  author       = {Ahmad Amirivojdan},
+  title        = {Naseza: A Large-Scale Dataset for Persian Hate Speech and Offensive Language Detection},
+  year         = {2025},
+  publisher    = {Zenodo},
+  version      = {v1.0.0},
+  doi          = {10.5281/zenodo.17355123},
+  url          = {https://doi.org/10.5281/zenodo.17355123},
+  license      = {CC0-1.0}
+}
 
