@@ -1,0 +1,38 @@
+title:
+  "Naseza: A Large-Scale Dataset for Persian Hate Speech and Offensive Language
+  Detection"
+abstract: |
+  Naseza is a large-scale dataset of Persian text curated for hate speech and
+  offensive language detection tasks. It combines multiple social media sources
+  to provide a rich and diverse resource for Persian NLP research.
+authors:
+  - family-names: Amirivojdan
+  - given-names: Ahmad
+    affiliation:
+      - name: University of Tennessee, Knoxville
+    orcid: 0000-0003-3741-3979
+cff-version: 1.2.0
+date-released: "2025-10-15"
+doi: 10.5281/zenodo.17355123
+identifiers:
+  - type: swh
+    value: swh:1:dir:5cfc25de18c17fa1fba6f03a26ae85e83c6bfaeb;origin=https://doi.org/10.5281/zenodo.17355123;visit=swh:1:snp:3c6e993f3cea87991b395cfe7f7d05ebe1f618aa;anchor=swh:1:rel:662981bf92ddc11016ebd5a4d1df4ce04e2336a9;path=amirivojdan-naseza-6383f5d
+license:
+  - cc0-1.0
+message: If you use this dataset, please cite it using the metadata from this file.
+type: dataset
+
+preferred-citation:
+  type: dataset
+  title: "Naseza: A Large-Scale Dataset for Persian Hate Speech and Offensive Language Detection"
+  authors:
+    - family-names: Amirivojdan
+      given-names: Ahmad
+      affiliation:
+        - name: University of Tennessee, Knoxville
+      orcid: 0000-0003-3741-3979
+  publisher: Zenodo
+  year: 2025
+  doi: 10.5281/zenodo.17355123
+  repository-code: "https://github.com/amirivojdan/naseza"
+  license: CC0-1.0
