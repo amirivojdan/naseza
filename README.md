@@ -22,10 +22,10 @@ The dataset is designed to support hate speech and offensive language detection 
 
 | Label         | Samples | Description                                                                                             |
 | ------------- | ------- | ------------------------------------------------------------------------------------------------------- |
-| **Offensive** | 1,963   | Contains insults, slurs, or verbally aggressive language directed toward individuals, teams, or groups. |
-| **Normal**    | 3,059   | Contains neutral, non-offensive, or contextually benign language.                                       |
+| **Offensive** | 2,429   | Contains insults, slurs, or verbally aggressive language directed toward individuals, teams, or groups. |
+| **Normal**    | 3,290   | Contains neutral, non-offensive, or contextually benign language.                                       |
 
-Total samples: **5,022**
+Total samples: **5,719**
 
 All samples are written in Persian and come from informal, colloquial user-generated text in Telegram discussions.
 
